@@ -12,6 +12,8 @@ body{
     align-items: center;
     justify-content: center;
     perspective: 1000px;
+    max-width: 15px;
+    
 }
 
 .container{
